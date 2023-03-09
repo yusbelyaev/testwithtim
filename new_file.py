@@ -1,2 +1,2 @@
 print("hello")
-print("changed on remote repo")
+print("changed repo")
